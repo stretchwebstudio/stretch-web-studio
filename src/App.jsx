@@ -266,7 +266,7 @@ export default function App() {
                             align="left"
                             eyebrow="Creative Direction"
                             title="A look and feel that matches the Stretch brand."
-                            description="Your website should feel smooth, memorable, and professional without being boring. This section can become your project gallery once you have finished examples."
+                            description="Your website should feel smooth, memorable, and professional without being boring. This section provides a gallery of finished websites done for clients and the reviews that they have provided."
                         />
                         <div className="marquee-card">
                             <div className="marquee-track">
